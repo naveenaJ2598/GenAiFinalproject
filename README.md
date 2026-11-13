@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LinguaMate AI
 
 A local-first English learning and PDF question-answering app.
@@ -47,3 +48,6 @@ LinguaMateAI/
 - PDF extraction currently supports selectable text PDFs. Scanned PDFs need OCR, which is not included.
 - The English Coach uses Python rules for a few known examples and Ollama for other sentences. Local LLM Tamil quality can vary.
 - PDF retrieval is a lightweight keyword-based RAG implementation, not embedding-based semantic search.
+=======
+# GenAiFinalproject
+>>>>>>> ddbab8ed07f50139dd8adf077f31677b47732807
